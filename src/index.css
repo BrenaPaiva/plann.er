@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  min-width: 0;
+} /*seleciona todos elementos do HTML para que todos os layouts fiquem corretos, ideal para controlar a largura conforme precisarmos, o navegador não terá o controle disso*/ 
